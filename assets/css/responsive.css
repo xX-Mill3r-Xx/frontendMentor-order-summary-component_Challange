@@ -1,0 +1,66 @@
+/* Adicionando responsividade para telas de 375px */
+@media (max-width: 375px) {
+  main {
+    padding: 18px;
+  }
+
+  .info {
+    width: 100%;
+    border-radius: 9px;
+  }
+
+  .info h2 {
+    font-size: 18px;
+    margin-top: 12px;
+  }
+
+  .text p {
+    width: 100%;
+    max-width: none;
+    font-size: 15px;
+    margin-top: 18px;
+  }
+
+  .plan {
+    width: 90%;
+    max-width: none;
+    height: auto;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px;
+    margin-top: 18px;
+  }
+
+  .plan .payment {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .payment .anual-plan,
+  .payment .price {
+    font-size: 15px;
+  }
+
+  .plan a {
+    margin-left: 24%;
+    margin-top: 10px;
+  }
+
+  button {
+    width: 90%;
+    max-width: none;
+    height: 54px;
+    margin-top: 20px;
+    font-size: 15px;
+  }
+
+  .cancel {
+    color: var(--Desaturated_blue);
+    margin: 16px 0;
+  }
+
+  footer {
+    position: static;
+    margin-top: 20px;
+  }
+}
