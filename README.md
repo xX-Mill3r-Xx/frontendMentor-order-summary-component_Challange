@@ -11,7 +11,7 @@ O desafio consistia em construir um componente que exibisse as informações de 
 ![Preview do Desafio Concluído](screen_shots/Captura_Desktop.png)
 ![Preview do Desafio Concluído](screen_shots/Captura_Mobile.png)
 
-Você pode conferir a versão final do desafio hospedada [aqui](link para a hospedagem do desafio).
+Você pode conferir a versão final do desafio hospedada [aqui](https://xx-mill3r-xx.github.io/frontendMentor-order-summary-component_Challange/).
 
 ## Tecnologias Utilizadas
 
